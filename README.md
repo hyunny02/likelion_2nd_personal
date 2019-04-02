@@ -6,3 +6,4 @@
 
 #참고문헌
 -점프 투 파이썬# likelion_2nd_personal
+# likelion_2nd_personal
